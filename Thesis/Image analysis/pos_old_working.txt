@@ -1,0 +1,225 @@
+positive/abbott.png 2 1310 782 340 242 400 782 450 54
+positive/abm.png 1 652 128 614 156
+positive/activisionblizzard.png 1 1254 998 430 78
+positive/adm.png 1 1242 1000 408 74
+positive/adp.png 1 1216 1028 554 46
+positive/aes.png 1 1076 894 182 112
+positive/agcocorp.png 1 1052 980 492 84
+positive/airproducts.png 1 1238 1014 454 64
+positive/ajg.png 2 492 978 324 92 1286 980 132 76
+positive/albemarle.png 1 1656 44 110 48
+positive/alcoa.png 1 1854 1020 32 28
+positive/allstate.png 1 192 904 426 122
+positive/americantower.png 1 1506 986 398 84
+positive/amerisourcebergen.png 1 364 976 468 86
+positive/amgen.png 1 256 1016 92 32
+positive/analog.png 1 1250 1006 444 62
+positive/andersonsinc.png 1 378 958 294 90
+positive/apollo.png 1 1564 980 322 84
+positive/appliedmaterials.png 1 1202 984 348 82
+positive/arconic.png 1 1094 12 732 128
+positive/assurant.png 1 906 952 694 106
+positive/autoliv.png 2 54 232 380 84 146 696 192 82
+positive/averydennison.png 1 1834 1024 58 36
+positive/bakerhughes.png 2 860 306 406 70 664 316 106 42
+positive/ball.png 1 1544 978 330 78
+positive/bathandbodyworks.png 1 1136 996 318 80
+positive/baxter.png 1 550 882 218 136
+positive/bc.png 1 1780 1018 110 44
+positive/berkley.png 1 1230 1018 450 60
+positive/berryglobal.png 1 1236 1002 432 70
+positive/biogen.png 1 572 1034 114 32
+positive/blackrock.png 2 936 302 334 82 646 316 192 54
+positive/blackstone.png 1 1428 990 464 62
+positive/bldr.png 2 104 904 200 84 276 866 116 44
+positive/bms.png 1 540 866 236 156
+positive/bnymellon.png 1 1188 912 538 92
+positive/boeing.png 1 1262 1018 410 42
+positive/borgwarner.png 1 632 956 646 106
+positive/broadcom.png 1 1638 898 230 122
+positive/burlington.png 2 1250 964 426 100 1846 1002 36 32
+positive/caesars.png 2 1312 1004 296 62 1838 1020 44 26
+positive/campbells.png 1 8 984 278 88
+positive/caterpillar.png 1 1454 962 324 74
+positive/cbrands.png 2 650 194 172 66 972 192 300 70
+positive/cdw.png 2 1112 1016 140 56 1838 1018 54 34
+positive/centene.png 1 1286 6 40 24
+positive/chrobinson.png 1 1660 1006 206 62
+positive/cintas.png 1 1236 972 454 78
+positive/cisco.png 1 22 1024 1668 26
+positive/citigroup.png 1 1348 896 180 88
+positive/cmc.png 1 1424 850 340 212
+positive/coca-colacompany.png 1 766 740 354 138
+positive/cognizant.png 1 1320 22 564 108
+positive/colgatepalmolive.png 1 728 366 446 122
+positive/commscope.png 2 1314 1004 294 66 1852 1016 34 36
+positive/conagrabrands.png 1 1226 1016 650 58
+positive/constellationenergy.png 2 1238 1008 454 70 1842 1032 46 22
+positive/corning.png 1 1248 982 446 68
+positive/corporate.png 1 1146 1026 362 50
+positive/corteva.png 1 248 998 462 72
+positive/crowncork.png 1 290 948 354 82
+positive/dana.png 2 650 320 120 66 946 326 314 64
+positive/danaher.png 2 658 196 148 68 958 198 300 58
+positive/davita.png 2 1014 998 504 76 750 1020 100 38
+positive/deere.png 1 1612 866 244 144
+positive/dell.png 1 24 956 196 80
+positive/dow.png 2 962 346 296 68 656 358 148 44
+positive/dupont.png 1 1190 206 170 46
+positive/eastman.png 1 1276 978 426 70
+positive/ebay.png 1 1048 1004 540 54
+positive/elcompanies.png 1 1070 858 182 160
+positive/emcorgroup.png 1 798 1036 298 34
+positive/emerson.png 1 814 212 292 68
+positive/energytransfer.png 1 1246 1016 426 54
+positive/expeditors.png 1 1070 994 296 70
+positive/exxonmobil.png 2 654 230 150 76 966 244 302 70
+positive/facebook.png 1 624 690 652 66
+positive/fanniemae.png 1 1312 1006 286 66
+positive/fbin.png 1 1480 968 146 86
+positive/fiserv.png 1 846 396 196 170
+positive/fisglobal.png 2 1170 948 618 104 1868 976 34 32
+positive/fluor.png 2 1228 994 450 60 1846 990 36 26
+positive/franklinresources.png 1 900 640 310 106
+positive/gd.png 1 852 1028 188 48
+positive/ge.png 1 1492 1014 404 62
+positive/generalmills.png 2 1298 1020 328 52 1832 1022 56 30
+positive/genpt.png 2 1234 1012 456 60 1850 1022 32 32
+positive/gilead.png 1 1206 956 482 92
+positive/globalp.png 1 960 990 440 56
+positive/goldmansachs.png 1 802 170 282 34
+positive/goodyear.png 1 1522 1014 358 50
+positive/graphicpkg.png 2 1524 858 348 172 1844 746 32 28
+positive/guardianlife.png 2 1032 990 478 74 1838 1020 34 26
+positive/halliburton.png 2 1582 992 280 56 1588 858 156 44
+positive/hilton.png 2 1134 888 334 162 1854 860 28 26
+positive/hp.png 2 584 308 138 50 1034 296 302 74
+positive/huntsman.png 2 1234 988 448 76 1848 1008 32 34
+positive/ibm.png 1 1634 930 244 126
+positive/iff.png 1 716 1006 474 52
+positive/ingredion.png 1 632 620 640 156
+positive/insight.png 2 946 414 314 60 656 416 148 48
+positive/intel.png 2 1290 984 480 76 1850 1006 34 30
+positive/internationalpaper.png 2 396 980 292 74 40 994 188 52
+positive/interpublic.png 1 1604 1002 236 54
+positive/iqvia.png 2 1536 916 136 150 1850 974 38 32
+positive/itw.png 1 1544 974 140 50
+positive/jackson.png 2 1094 976 516 68 1848 1000 32 16
+positive/jacobs.png 1 1294 982 308 78
+positive/jbhunt.png 2 1250 1010 428 64 1852 1032 30 18
+positive/jetblue.png 2 1010 280 290 84 598 314 136 26
+positive/jmsmucker.png 2 956 330 302 60 656 334 124 36
+positive/jnj.png 2 880 258 290 62 658 272 110 30
+positive/jpmorganchase.png 1 1102 1018 400 60
+positive/kindermorgan.png 2 1182 496 152 84 1376 496 26 26
+positive/kkr.png 2 956 260 302 58 658 268 142 46
+positive/kla.png 2 1240 1004 432 64 1854 1020 32 28
+positive/knight-swift.png 2 906 492 320 44 1128 528 54 50
+positive/kraftheinzcompany.png 2 26 938 346 140 350 760 26 24
+positive/kyndryl.png 1 670 410 566 150
+positive/l3harris.png 1 1452 18 318 122
+positive/labcorp.png 2 1240 968 436 68 1854 978 26 38
+positive/lamresearch.png 2 1184 1010 546 64 1862 1032 26 24
+positive/landolakesinc.png 1 1274 904 128 64
+positive/lear.png 2 1000 996 402 62 1408 1006 46 40
+positive/leidos.png 2 1172 1006 564 62 1852 1018 24 26
+positive/lilly.png 2 584 598 570 70 594 666 144 32
+positive/lithia.png 1 1550 1002 112 64
+positive/lkqcorp.png 1 1060 844 188 170
+positive/lockheedmartin.png 1 1182 6 232 30
+positive/lumen.png 1 32 858 340 170
+positive/manpowergroup.png 2 710 416 112 58 954 428 208 58
+positive/markel.png 3 1648 868 222 148 1850 838 26 22 1260 936 128 28
+positive/marriott.png 1 666 962 28 28
+positive/marsh.png 1 1260 1010 282 56
+positive/mastercard.png 1 694 648 510 58
+positive/mcdonalds.png 2 1398 1008 126 36 1852 1002 38 38
+positive/mckesson.png 2 914 276 342 66 658 274 184 64
+positive/merck.png 2 508 248 166 56 1120 242 294 70
+positive/micron.png 2 36 860 334 170 356 740 18 30
+positive/microsoft.png 1 1308 4 496 52
+positive/modernatx.png 1 1064 564 186 60
+positive/molsoncoors.png 1 638 456 630 182
+positive/mondelezinternational.png 1 1246 1010 416 54
+positive/morganstanley.png 2 24 998 430 66 1866 870 26 24
+positive/mosaicco.png 2 1860 866 38 30 1574 902 300 136
+positive/motorolasolutions.png 2 1186 222 150 44 782 214 372 60
+positive/nationwide.png 2 1606 1018 284 54 1862 922 30 40
+positive/netflix.png 1 116 146 416 66
+positive/newellbrands.png 2 1568 916 304 136 1860 894 38 32
+positive/nglenergypartners.png 2 1362 1020 60 48 1866 1036 22 22
+positive/nike.png 1 1054 934 130 50
+positive/northropgrumman.png 2 1260 1012 412 50 1846 1018 34 28
+positive/northwesternmutual.png 2 1320 982 278 68 1846 998 34 32
+positive/nvidia.png 1 1132 986 358 78
+positive/onsemi.png 2 958 248 304 60 652 248 170 50
+positive/oracle.png 1 550 262 440 64
+positive/oreillyauto.png 1 1618 1034 276 36
+positive/otis.png 2 1264 20 430 68 1866 36 34 28
+positive/owenscorning.png 1 1594 1024 284 46
+positive/oxy.png 2 1230 1022 450 46 1856 1034 20 22
+positive/paccar.png 1 1456 902 300 126
+positive/pacificlife.png 1 1628 1002 204 56
+positive/packagingcorp.png 1 1452 886 304 62
+positive/paramount.png 1 30 858 334 166
+positive/parpacific.png 1 800 610 458 60
+positive/paypal.png 1 1588 974 92 64
+positive/penskeautomotive.png 1 1128 1020 624 56
+positive/pfgc.png 2 680 1024 544 40 1822 932 34 26
+positive/pfizer.png 1 1244 40 430 62
+positive/pg.png 1 1782 1032 116 38
+positive/pgecorp.png 1 1262 1012 386 56
+positive/phillips66.png 1 1246 1018 432 52
+positive/pmi.png 2 956 228 304 58 652 238 94 34
+positive/polaris.png 1 1540 1010 356 46
+positive/principal.png 1 1310 982 292 48
+positive/pxd.png 1 1498 990 218 48
+positive/qualcomm.png 1 826 284 274 48
+positive/quantaservices.png 2 126 996 148 20 338 744 44 26
+positive/questdiagnostics.png 1 1242 958 422 56
+positive/raymondjames.png 2 1214 1038 286 26 1860 1038 38 18
+positive/regeneron.png 2 1222 988 476 60 1866 1004 40 30
+positive/rgare.png 1 1122 866 188 172
+positive/roberthalf.png 2 952 200 308 56 662 212 98 26
+positive/rossstores.png 2 1866 1016 32 34 1288 1014 374 36
+positive/saic.png 1 1322 1004 330 52
+positive/salesforce.png 1 528 262 224 64
+positive/seaboardcorp.png 1 1466 1008 420 56
+positive/sherwin-williams.png 1 624 992 648 54
+positive/sonicautomotive.png 2 406 1006 284 54 668 882 22 22
+positive/sonoco.png 2 1240 1018 438 54 1854 1030 26 22
+positive/starbucks.png 1 810 380 270 58
+positive/statestreet.png 2 540 350 222 70 1166 344 220 92
+positive/stonex.png 1 936 232 330 52
+positive/svb.png 1 812 266 318 56
+positive/ta-petro.png 2 1166 1004 582 50 1838 1008 40 26
+positive/tdsynnex.png 1 1256 938 448 74
+positive/textron.png 1 1506 1012 208 48
+positive/thehersheycompany.png 1 1070 912 186 108
+positive/theice.png 1 1510 10 378 108
+positive/thermofisher.png 2 1746 986 134 60 6 1000 152 32
+positive/thorindustries.png 2 1306 988 298 66 1854 988 32 38
+positive/ti.png 1 646 586 348 58
+positive/tysonfoods.png 1 1502 1012 196 52
+positive/uber.png 1 1544 998 328 64
+positive/ufpi.png 1 632 578 636 60
+positive/ulta.png 1 720 226 380 48
+positive/unfi.png 2 1380 1002 328 46 1864 980 36 28
+positive/unitedhealthgroup.png 2 1250 8 420 48 1860 18 20 20
+positive/univarsolutions.png 2 14 318 484 52 12 654 488 62
+positive/unum.png 3 390 1010 298 50 40 1006 190 56 660 834 36 22
+positive/us.png 2 1112 586 140 48 642 594 126 32
+positive/viatris.png 2 1008 546 292 70 632 560 134 34
+positive/visa.png 1 488 64 334 54
+positive/vrtx.png 1 1232 960 446 70
+positive/wabteccorp.png 1 1634 1028 238 48
+positive/walgreensbootsalliance.png 1 1364 1032 74 22
+positive/watsco.png 2 1232 1026 442 44 1854 1034 34 26
+positive/wellsfargo.png 0
+positive/westerndigital.png 2 486 400 204 70 1190 408 210 64
+positive/westernsouthern.png 1 1350 1016 112 52
+positive/westrock.png 2 1246 1006 432 60 1852 1024 34 22
+positive/williamsf1.png 2 1538 920 330 104 1846 804 24 24
+positive/world-kinect.png 1 688 1000 1216 66
+positive/xpo.png 1 652 992 588 70
+positive/zoetis.png 2 1310 936 290 74 1828 950 36 44
